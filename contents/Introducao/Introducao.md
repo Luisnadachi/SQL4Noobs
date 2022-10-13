@@ -8,3 +8,5 @@ Qualquer que seja sua resposta, sim, existe, e conhecemos como Banco de Dados ou
 ## **O que é SQL?**
 
 SQL abreviação para Standard Query Language foi uma linguagem criada pela IBM no inicio dos anos 70 com o objetivo demonstrar a viabilidade da implementação do modelo relacional, no qual vamos falar na próxima página sobre. No geral SQL não precisa de profundos conhecimetnos de programação para que alguém possa utilizar, tantos que até outros setores além de desenvolvimento utiliza a mesma. No mercado podemos utilizar os principais BDs relacionais utilizando SQL: Oracle, MySQL, Maria DB, Microsoft SQL Server e PostgreSQL.
+
+ [Inicio](/README.md) | [Diferença entre BDs relacionais e não relacionais]()

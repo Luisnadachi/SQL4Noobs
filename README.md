@@ -6,7 +6,7 @@
 
 # Sobre o Repositório
 
-Guia para iniciantes na área de desenvolvimento entenderem SQL, linguagem padrão para trabalhar com bancos de dados relacionais.
+Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um juninho, linguagem padrão para trabalhar com bancos de dados relacionais.
 
 # Road Map
 
