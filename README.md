@@ -11,19 +11,21 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
 # Road Map
 
 1. Introdução ao Repo 
-    1. [Introdução](contents/Introducao/Introducao.md)
-    2. [Diferença entre BDs relacionais e não relacionais]()
-    3. [Sintaxe]()
+    * [Introdução](contents/Introducao/Introducao.md)
+    * [Diferença entre BDs relacionais e não relacionais]()
+    * [Sintaxe]()
+    * [SubConjuntos]()
 2. Configurando Ambiente
-   1. [Instalando SQL (MYSQL)]()
-   2. [Alguns aplicativos úteis]()
+   * [Instalando SQL (MYSQL)]()
+   * [Alguns aplicativos úteis]()
 3. Comandos
-   1. [Iniciais]()
-   2. [Básicos]()
-   3. [Primary Key e Foreign Key]()
-   4. [Condicionais]()  
-   5. [Joins]()
-   6. [Views]()
+   * [Iniciais]()
+   * [Básicos]()
+   * [Tipos]()
+   * [Primary Key e Foreign Key]()
+   * [Condicionais]()  
+   * [Joins]()
+   * [Views]()
 
 
 # Como Contribuir
