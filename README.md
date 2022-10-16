@@ -17,7 +17,7 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
     * [SubConjuntos]()
 2. Configurando Ambiente
    * [Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md)
-   * [Alguns aplicativos úteis]()
+   * [Aplicativos](contents/configuracao/Aplicativos.md)
 3. Comandos
    * [Iniciais]()
    * [Básicos]()
