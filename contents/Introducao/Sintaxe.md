@@ -13,3 +13,5 @@ SELECT * FROM Clientes
 ```
 
 Aqui temos o comando SELECT utilizando todos os dados que é representado por *, em seguida o comando FROM para finalizar com a tabela chamada Clientes.
+
+[Diferença entre BDs relacionais e não relacionais](contents/Introducao/Diferenca.md) | [Inicio](/README.md) | [Sub Conjuntos](contents/Introducao/Conjuntos.md)

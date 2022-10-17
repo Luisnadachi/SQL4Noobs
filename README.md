@@ -14,14 +14,14 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
     * [Introdução](contents/Introducao/Introducao.md)
     * [Diferença entre BDs relacionais e não relacionais](contents/Introducao/Diferenca.md)
     * [Sintaxe](contents/Introducao/Sintaxe.md)
-    * [Sub Conjuntos]()
+    * [Sub Conjuntos](contents/Introducao/Conjuntos.md)
 2. Configurando Ambiente
    * [Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md)
    * [Aplicativos](contents/configuracao/Aplicativos.md)
 3. Comandos
    * [Iniciais]()
    * [Básicos]()
-   * [Tipos]()
+   * [Tipos de Dados]()
    * [Primary Key e Foreign Key]()
    * [Condicionais]()  
    * [Joins]()
