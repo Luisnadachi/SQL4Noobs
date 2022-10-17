@@ -12,9 +12,9 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
 
 1. Introdução ao Repo 
     * [Introdução](contents/Introducao/Introducao.md)
-    * [Diferença entre BDs relacionais e não relacionais]()
+    * [Diferença entre BDs relacionais e não relacionais](contents/Introducao/Diferenca.md)
     * [Sintaxe]()
-    * [SubConjuntos]()
+    * [Sub Conjuntos]()
 2. Configurando Ambiente
    * [Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md)
    * [Aplicativos](contents/configuracao/Aplicativos.md)
