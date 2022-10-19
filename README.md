@@ -19,7 +19,7 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
    * [Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md)
    * [Aplicativos](contents/configuracao/Aplicativos.md)
 3. Comandos
-   * [Iniciais]()
+   * [Iniciais](contents/comandos/Iniciais.md)
    * [Tipos de Dados]()
    * [Básicos]()
    * [Primary Key e Foreign Key]()
