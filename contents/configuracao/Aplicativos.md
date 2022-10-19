@@ -14,4 +14,4 @@ O [DBeaver](https://dbeaver.io/download/) é uma ferramenta gratuita e open sour
 
 Pessoalmente falando eu aconselho muito a usar ele porque deixa muito mais fácil a visualização do banco de dados no geral e você pode optar criar tudo usando código SQL ou utilizando as opções do próprio DBeaver que foram feitas para facilitar isso.
 
-[Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md) | [Inicio](/README.md) | [Iniciais]()
+[Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md) | [Inicio](/README.md) | [Iniciais](/contents/comandos/Iniciais.md)

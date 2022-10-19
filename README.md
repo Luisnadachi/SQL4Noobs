@@ -20,8 +20,8 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
    * [Aplicativos](contents/configuracao/Aplicativos.md)
 3. Comandos
    * [Iniciais]()
-   * [Básicos]()
    * [Tipos de Dados]()
+   * [Básicos]()
    * [Primary Key e Foreign Key]()
    * [Condicionais]()  
    * [Joins]()
