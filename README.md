@@ -21,7 +21,7 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
 3. Comandos
    * [Iniciais](contents/comandos/Iniciais.md)
    * [Tipos de Dados](contents/comandos/Tipos.md)
-   * [Básicos]()
+   * [Básicos](contents/comandos/Basicos.md)
    * [Relacionamentos]()
    * [Primary Key e Foreign Key]()
    * [Condicionais]()  
