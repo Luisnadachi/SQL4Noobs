@@ -30,3 +30,5 @@ Quando criamos as colunas das tabelas, precisamos dizer qual tipo de dados irá 
 - DATETIME(fsp): suporta datas com o formato de 'YYYY-MM-DD hh:mm:ss' e tem o tamanho de '1000-01-01 00:00:00' até '9999-12-31 23:59:59'.
 - TIMESTRAMP(fsp): são geralmente utilizados para registrar a data atual, tem o mesmo tamanho do DATETIME.
 - YEAR: suporta somente ano com 4 dígitos 1901 até 2155, e 0000.
+
+[Iniciais](contents/comandos/Iniciais.md) | [Inicio](/README.md) | [Básicos](contents/comandos/Basicos.md)
