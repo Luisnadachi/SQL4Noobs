@@ -10,7 +10,7 @@ Ex:
 
 ``` SQL
 CREATE TABLE 4noobs(
-ID int NOT NULL,
+ID int NOT NULL AUTO_INCREMENT,
 lang varchar (255),
 autor varchar (255),
 PRIMARY KEY (ID)
@@ -25,13 +25,13 @@ Ex:
 
 ``` SQL
 CREATE TABLE Languages (
-    langID int NOT NULL,
+    langID int NOT NULL AUTO_INCREMENT,
     name varchar(255) NOT NULL,
     PRIMARY KEY (langID)
 );
 
 CREATE TABLE 4noobs(
-    conteudoID int NOT NULL,
+    conteudoID int NOT NULL AUTO_INCREMENT,
     autor varchar(255),
     PRIMARY KEY (conteudoID),
     FOREIGN KEY (langID) REFERENCES Languages(langID)
