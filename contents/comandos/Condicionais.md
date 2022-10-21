@@ -79,3 +79,4 @@ ORDER BY lang DESC
 ```
 
 **Obs:** Existem outros comandos para condições só que esses aqui citados são os mais utilizados principalmente para você que está começando ou juninho.
+
