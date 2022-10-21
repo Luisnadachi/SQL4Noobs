@@ -6,7 +6,7 @@ Até mesmo em SQL podemos utilizar condições em determinados comandos, podemos
 
 O WHERE já conhecemos do capítulo anterior, traduzido significa "ONDE", com ele especicamos uma condição expecifica.
 
-```
+``` SQL
 SELECT * FROM 4noobs 
 WHERE lang = 'PHP';
 ```
@@ -17,14 +17,14 @@ Nesse exemplo selecionamos todas as linhas na tabela do 4noobs que contém a col
 
 O operador IN serve para conseguimos especificar vários valores dentro da condição do WHERE.
 
-```
+``` SQL
 SELECT * FROM 4noobs
 WHERE lang IN ('PHP','JS');
 ```
 
 E temos também forma negativa.
 
-```
+``` SQL
 SELECT * FROM 4noobs
 WHERE lang NOT IN ('PHP','JS');
 ```
@@ -33,7 +33,7 @@ WHERE lang NOT IN ('PHP','JS');
 
 Para citar alguns exemplos e reforçar, podemos utilizar operadores como "E", "OU" e "NÃO", eles são usados para complementar condições como o WHERE, alguns exemplos.
 
-```
+``` SQL
 SELECT lang, autor
 FROM 4noobs
 WHERE lang = 'php' AND autor = 'danielhe4rt';
@@ -41,7 +41,7 @@ WHERE lang = 'php' AND autor = 'danielhe4rt';
 
 ou
 
-```
+``` SQL
 SELECT lang
 FROM 4noobs
 WHERE lang = 'php' OR lang = 'html';
@@ -49,7 +49,7 @@ WHERE lang = 'php' OR lang = 'html';
 
 ou
 
-```
+``` SQL
 SELECT lang
 FROM 4noobs
 WHERE NOT lang = 'php';
@@ -59,24 +59,23 @@ WHERE NOT lang = 'php';
 
 O operador ORDER BY server para quando usarmos o SELECT trazer os dados tanto em ordem crescente ou descrecente, por padrão o ORDER BY tras em ordem crescente mas podemos especificar usando ASC (crescente) e DESC (descrescente).
 
-```
+``` SQL
 SELECT * FROM 4noobs
 ORDER BY lang;
 ```
 
 ou
 
-```
+``` SQL
 SELECT * FROM 4noobs
 ORDER BY lang ASC;
 ```
 
 ou
 
-```
+``` SQL
 SELECT * FROM 4noobs
 ORDER BY lang DESC
 ```
 
 **Obs:** Existem outros comandos para condições só que esses aqui citados são os mais utilizados principalmente para você que está começando ou juninho.
-

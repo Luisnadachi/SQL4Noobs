@@ -6,14 +6,14 @@ Os comandos que irei explicar nesse tópico vão ser com mais foco em interagir 
 
 Esse comando tem como objetivo inserir dados em uma tabela.
 
-```
+``` SQL
 INSERT INTO 4noobs (autor, lang)
 VALUES ('nadachi', 'html')
 ```
 
 ou
 
-```
+``` SQL
 INSERT INTO 4noobs 
 VALUES ('nadachi', 'html')
 ```
@@ -22,14 +22,14 @@ VALUES ('nadachi', 'html')
 
 Com esse comando podemos trazer os dados de colunas especificas ou de todas colunas de uma tabela.
 
-```
+``` SQL
 SELECT lang, autor
 FROM 4noobs;
 ```
 
 ou
 
-```
+``` SQL
 SELECT * FROM 4noobs;
 ```
 
@@ -39,7 +39,7 @@ SELECT * FROM 4noobs;
 
 Utilizado para atualizar algum dado dentro da tabela.
 
-```
+``` SQL
 UPDATE 4noobs
 SET lang = 'php', autor = 'danielhe4rt'
 WHERE lang = 'html';
@@ -51,7 +51,7 @@ WHERE lang = 'html';
 
 Utilizado para deletar alguma linha na tabela.
 
-```
+``` SQL
 DELETE FROM 4noobs WHERE lang = 'PHP';
 ```
 
