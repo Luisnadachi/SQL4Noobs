@@ -25,7 +25,7 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
    * [Condicionais](contents/comandos/Condicionais.md)
    * [Primary Key e Foreign Key](contents/comandos/Keys.md)
    * [Joins](contents/comandos/Joins.md)
-   * [Views]()
+   * [Views](contents/comandos/Views.md)
 
 
 # Como Contribuir

@@ -37,3 +37,5 @@ CREATE TABLE 4noobs(
     FOREIGN KEY (langID) REFERENCES Languages(langID)
 );
 ```
+
+[Condicionais](contents/comandos/Condicionais.md) | [Inicio](/README.md) | [Joins](contents/comandos/Joins.md)
