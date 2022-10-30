@@ -26,7 +26,8 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
    * [Primary Key e Foreign Key](contents/comandos/Keys.md)
    * [Joins](contents/comandos/Joins.md)
    * [Views](contents/comandos/Views.md)
-
+- Extras:
+   * [MYSQL no terminal](contents/extra/comandos.md)
 
 # Como Contribuir
 
