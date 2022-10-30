@@ -4,7 +4,7 @@ Nesse tópico iremos apresentar sobre as chaves primárias e as chaves estrangei
 
 ## **Primary Key**
 
-Só pode haver uma chave primária (Primary Key) em uma tabela, porque o intuito dela é nunca receber vazio (NULL) e ser auto incrementada (1,2,3,4,..) para ser utilizada como identificador de uma linha da tabela, como se fosse um código ou um ID.
+Só pode haver uma chave primária (Primary Key) em uma tabela, porque o intuito dela é nunca receber vazio (NULL) e ser auto incrementada (1,2,3,4,..) para ser utilizada como identificador de uma linha da tabela, como se fosse um código ou um ID, além de auxiliar na otimização da DB.
 
 Ex:
 
