@@ -27,7 +27,7 @@ Guia para iniciantes na área de desenvolvimento entenderem SQL no nível de um 
    * [Joins](contents/comandos/Joins.md)
    * [Views](contents/comandos/Views.md)
 - Extras:
-   * [MYSQL no termina](contents/extra/comandos.md)
+   * [MYSQL no terminal](contents/extra/comandos.md)
 
 # Como Contribuir
 
