@@ -57,4 +57,4 @@ DELETE FROM 4noobs WHERE lang = 'PHP';
 
 **Obs:** O que falei no Obs do UPDATE vale para o DELETE principalmente.
 
-[Tipos de Dados](./Tipos.md) | [Inicio](../../README.md) | [Relacionamentos](./C.md)
+[Tipos de Dados](./Tipos.md) | [Inicio](../../README.md) | [Condicionais](./Condicionais.md)
