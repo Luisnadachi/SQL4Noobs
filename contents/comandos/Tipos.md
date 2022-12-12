@@ -31,4 +31,4 @@ Quando criamos as colunas das tabelas, precisamos dizer qual tipo de dados irá 
 - TIMESTRAMP(fsp): são geralmente utilizados para registrar a data atual, tem o mesmo tamanho do DATETIME.
 - YEAR: suporta somente ano com 4 dígitos 1901 até 2155, e 0000.
 
-[Iniciais](contents/comandos/Iniciais.md) | [Inicio](/README.md) | [Básicos](contents/comandos/Basicos.md)
+[Iniciais](./Iniciais.md) | [Inicio](../../README.md) | [Básicos](./Basicos.md)

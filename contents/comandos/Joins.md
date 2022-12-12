@@ -92,4 +92,4 @@ ORDER BY 4noobs.id4noobs;
 
 Obs: Full outer join não funciona no MySQL.
 
-[Primary Key e Foreign Key](contents/comandos/Keys.md) | [Inicio](/README.md) | [Views](contents/comandos/Views.md)
+[Primary Key e Foreign Key](./Keys.md) | [Inicio](../../README.md) | [Views](./Views.md)

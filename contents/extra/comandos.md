@@ -129,3 +129,4 @@ E isso vai nos dar um retorno formatado com o resultado dessa Query.
 - Você pode usar o comando `CTRL+L` para limpar o terminal caso necessário.
 - É necessário ter o mesmo cuidado ao usar comandos no Terminal quanto quando está os executando por interface gráfica, caso rode um comando que cause perda de dados isso vai ser um problema tão grave quanto seria por qualquer outro programa, mas o terminal não vai tentar te alertar sobre isso. Tenha cuidado.
 
+[Inicio](../../README.md)

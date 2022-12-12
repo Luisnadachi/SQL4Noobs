@@ -56,4 +56,4 @@ ou
 DROP TABLE 4noobs;
 ```
 
-[Aplicativos](contents/configuracao/Aplicativos.md) | [Inicio](/README.md) |[Tipos de Dados](/contents/comandos/Tipos.md)
+[Aplicativos](./Aplicativos.md) | [Inicio](../../README.md) |[Tipos de Dados](./Tipos.md)

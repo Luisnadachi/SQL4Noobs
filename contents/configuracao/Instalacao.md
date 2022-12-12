@@ -50,4 +50,4 @@ Aqui pode dar 'N' para tudo por conta que vai ser somente um ambiente de desenvo
 ```
 $ mysql -u root -p
 ```
-[Sub Conjuntos](contents/Introducao/Conjuntos.md) | [Inicio](/README.md) | [Aplicativos](contents/configuracao/Aplicativos.md)
+[Sub Conjuntos](../Introducao/Conjuntos.md) | [Inicio](../../README.md) | [Aplicativos](./Aplicativos.md)

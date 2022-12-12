@@ -34,4 +34,4 @@ Um detalhe para se atentar também na sintaxe do SQL, lembrando que próximos t�
 - SELECT
 - ORDER BY
 
-[Diferença entre BDs relacionais e não relacionais](contents/Introducao/Diferenca.md) | [Inicio](/README.md) | [Sub Conjuntos](contents/Introducao/Conjuntos.md)
+[Diferença entre BDs relacionais e não relacionais](./Diferenca.md) | [Inicio](../../README.md) | [Sub Conjuntos](./Conjuntos.md)

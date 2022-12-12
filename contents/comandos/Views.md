@@ -22,4 +22,4 @@ SELECT * FROM vw4noobs;
 
 Explicando um pouco a estrutura, primeiramente usamos o **CREATE VIEW** acompanhado do nome da view, geralmente colocamos um "vw" para indentificar, em seguida um **AS** acompanhado do nosso select com as nossas condicionais. A outra linha de **SELECT** que utilizei em seguida é so para vocês visualizarem os resultados da View.
 
-[Joins](contents/comandos/Joins.md) | [Inicio](/README.md) 
+[Joins](./Joins.md) | [Inicio](../../README.md) 

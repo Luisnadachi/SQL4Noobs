@@ -38,4 +38,4 @@ CREATE TABLE 4noobs(
 );
 ```
 
-[Condicionais](contents/comandos/Condicionais.md) | [Inicio](/README.md) | [Joins](contents/comandos/Joins.md)
+[Condicionais](./Condicionais.md) | [Inicio](../../README.md) | [Joins](./Joins.md)

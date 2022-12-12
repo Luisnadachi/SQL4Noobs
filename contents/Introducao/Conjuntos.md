@@ -59,4 +59,4 @@ Pelo seu nome completo de **Data Transaction Language**, é o subconjunto respon
 
 Por agora não expliquei sobre os comandos porque eles vão ser trazidos no Capitulo 3 onde irei falar expecificamente sobre eles.
 
-[Sintaxe](contents/Introducao/Sintaxe.md) | [Inicio](/README.md) | [Instalando SQL (MYSQL)](contents/configuracao/Instalacao.md)
+[Sintaxe](./Sintaxe.md) | [Inicio](../../README.md) | [Instalando SQL (MYSQL)](../configuracao/Instalacao.md)
