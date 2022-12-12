@@ -45,3 +45,4 @@ contribuições são **extremamente apreciadas**!
 - **Luis Eduardo Teixeira (nadachi)** - _Back End Developer (php/laravel), He4rt's moderator and He4rt Live's moderator_
   - [Twitter](https://twitter.com/Luis_Nadachi) [LinkedIn](https://www.linkedin.com/in/luis-eduardo-ribeiro-teixeira-384b9819a/)
 
+# Colaboradores
